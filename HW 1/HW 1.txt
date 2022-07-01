@@ -1,0 +1,11 @@
+Dataset: ToyotaCorolla.xlsx Preview the document(includes field descriptions - save file in csv format for use in R)
+
+Problem 2.11. In part (b)(i) "Metallic" should read "Color". Of course, there is a third categorical variable, "Model," which has hundreds of unique text strings; delete this second column from the data.
+
+Problem 4.3. (Problem 4.4 in XLMiner book) For the correlation matrix in part (e), create a heatmap of the result as shown in the Ch3.R codes. Also therein (Figure 3.7) is an indication of a so-called matrix scatterplot.
+
+Note: The problems ask you to use R software; if reading the XLMiner based book, replace the words Excel and XLMiner with R. There is a dummies package that you can install in R as shown in Table 2.6 of the Ch2.R codes. (This easier option does not appear in the textbook.)
+
+Note:In RStudio, knit (under File menu) your code/output into a word document. You may then type up your short answers to the questions and include in the document for upload. (No need to print or write down on paper.)
+
+Nota Bene (NB): You may work with a partner on this assignment. If doing so, only one of you will need upload your R code. In order to do so, please create a student group for you and your partner under People section (Homework Partners groups) here in Canvas.

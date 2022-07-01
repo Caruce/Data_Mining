@@ -1,0 +1,16 @@
+Problems 5.1 & 5.2 (IRS) Fraud Detection
+
+For Problem 5.1, calculate all five error rates discussed in the notes & demonstrated in class.
+
+For Problem 5.2, clearly indicate your answers to (a) & (b).
+
+(c) "Another analyst comments that you could improve the accuracy of the model by classifying everything as non-fraudulent. If you do that, what is the error rate?" 
+
+Reconstruct your confusion matrix and recalculate the error rates for this naive classifier's approach to our original Problem 5.1. What happens to the overall error rate? Which error, Type I or II, has this analyst eliminated? Comment also on the profit/cost implications of this analyst's naive classification. Repeat for the case of a perfect classifier.
+
+
+Problem 5.x Suppose that an average fraud case represents $3800 of lost revenue that the IRS either did not receive or paid out on a bogus claim. For those cases it pursues, i.e., the ones it has predicted as fraudulent, the IRS will spend $800 on the audit and attempted collection of the lost tax revenue. Assume that the audit/prosecution process is perfect, so any truly guilty party will pay back the $3800 + $500 in interest & penalties and any truly innocent party will pay nothing. Construct a net profit (payoff) matrix and corresponding regret (cost) matrix for an individual tax case using the same orientation as your confusion matrix. Use these to calculate the total profit and total regret cost of all the cases in the study.
+
+Submission: Please attach a report (word document) and possibly computer (Excel?) work too by the due date/time.
+
+Note: You may work with a partner on this assignment and turn in one set of files. If doing so, be sure you indicate your partner's name.

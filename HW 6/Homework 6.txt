@@ -1,0 +1,9 @@
+Problem 8.1: Personal Loan Acceptance.
+
+You may perform the pivot table in any software of your choosing, presumably Excel or R (as done in code posted in Ch. 8 module.) Do not bother to partition the data into training/validation sets.
+
+For part (g), be sure that your variables are declared as factors like we discussed at the top of the R code for the flight delays example in class last Thursday. Otherwise, you may have erroneous results that don't match your work in part (e).
+
+As always, you may work with a partner on this assignment.
+
+Type up your answers in a report for upload by due date/time.

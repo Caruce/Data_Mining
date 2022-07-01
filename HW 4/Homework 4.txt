@@ -1,0 +1,13 @@
+Problem 10.1 Financial Condition of Banks.
+
+You may run the logistic regression in any software of your choosing: Minitab, R, SPSS, etc. (Note to use only the two predictors described in the problem; there is a third that you should ignore.) Copy this regression output to your report. Report on the statistical significance or not of the two predictors at a level of significance of alpha = 0.05 (trickier in Minitab). Also comment on the overall goodness of fit of the model.
+
+Do all parts of the problem with some modifications to following parts:
+
+In part (a) just write the logit equation from your model (part i). 
+
+In part (d) since all the data for this ratio measure range only between 0.3 and about 1, it makes more sense to interpret an increase of 0.1 units rather than a whole unit. Reinterpret the odds of being financially weak for a 0.1 unit increase in this total loans/leases to total assets ratio.
+
+(dx) Roughly check your latter answer in part (d) by comparing the odds of bank 5 being weaker than the new bank in part (b). 
+
+Type up your answers in a report for upload by due date/time. (If you are inserting any math equations in MS Word, it will be best for viewing here if you save as a pdf rather than doc file.) You may work with a homework partner as always.

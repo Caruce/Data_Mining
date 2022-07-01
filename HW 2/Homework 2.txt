@@ -1,0 +1,7 @@
+Dataset: Universities.xlsxPreview the document (includes field descriptions - save file in csv format for use in R)
+
+Problem 4.2. (Problem 4.3 in XLMiner book) In part (a), also comment on how many original records there are versus how many remain after removing those with missing data. In part (b), also create a scree plot.
+
+Note:In RStudio, knit (under File menu) your code/output into a word document. You may then type up your short answers to the questions and include in the document for upload. (No need to print or write down on paper.)
+
+Nota Bene (NB): You may work with a partner on this assignment. If doing so, only one of you will need upload your R code. In order to do so, please create a student group for you and your partner under People section (Homework Partners groups) here in Canvas.
